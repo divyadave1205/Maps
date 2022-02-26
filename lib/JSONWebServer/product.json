@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Hoodie",
+        "description": "Hoodies are the stylist clothes ever",
+        "price": 600,
+        "image": "removebg-preview (4).png"
+    },
+    {
+        "name": "Jeans",
+        "description": "Jeans is the most stylist clothes ever",
+        "price": 800,
+        "image": "images-removebg-preview (1).png"
+    },
+    {
+        "name": "T-shirt",
+        "description": "T-shirt is most dashing cloth",
+        "price": 400,
+        "image": "images-removebg-preview (2).png"
+    },
+    {
+        "name": "Kurti",
+        "description": "Kurti is the most ethnic wear ever",
+        "price": 500,
+        "image": "images-removebg-preview (3).png"
+    },
+    {
+        "name": "Purse",
+        "description": "purse is useful thing",
+        "price": 100,
+        "image": "images-removebg-preview (4).png"
+    },
+    {
+        "name": "sandles",
+        "description": "sandle is a part of your personality",
+        "price": 500,
+        "image": "images-removebg-preview (5).png"
+    }
+]
